@@ -6,6 +6,9 @@ public class HelloWorld {
 public static void main(String[] args) {
 
     System.out.println("Hello World,I'am Nook");
+    System.out.println("Piyanut Raksin");
+    System.out.println("information system");
+    System.out.println("MT: RMUTSV");
 
 
 
