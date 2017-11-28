@@ -8,7 +8,7 @@ public class TestInput {
     public static void main(String[] args) {
 
         // BufferedReader
-        BufferedReader reader = new BufferedReader(
+        BufferedReader reader = new BufferedReader (
                 new InputStreamReader(System.in));
         System.out.println("What is your name? :");
         String name = reader.readLine();
