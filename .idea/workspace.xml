@@ -407,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513046459783</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="switch">
+      <created>1513046489070</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1513046489070</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -452,7 +459,8 @@
     <MESSAGE value="Test condition" />
     <MESSAGE value="grade" />
     <MESSAGE value="switchCase" />
-    <option name="LAST_COMMIT_MESSAGE" value="switchCase" />
+    <MESSAGE value="switch" />
+    <option name="LAST_COMMIT_MESSAGE" value="switch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
