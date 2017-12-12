@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0b7a163-6171-4e1f-96b7-5859eca03ff9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OOP_Lab3/TestForLoop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OOP_Lab3/TestWhilelLoop.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -47,11 +47,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestForLoop.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestForLoop.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/OOP_Lab3/TestForLoop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            <state relative-caret-position="324">
+              <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestWhilelLoop.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/OOP_Lab3/TestWhilelLoop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="35" column="42" lean-forward="false" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -91,6 +101,7 @@
         <option value="$PROJECT_DIR$/src/OOP_Lab3/CalGrade.java" />
         <option value="$PROJECT_DIR$/src/OOP_Lab3/TestSwitchCase.java" />
         <option value="$PROJECT_DIR$/src/OOP_Lab3/TestForLoop.java" />
+        <option value="$PROJECT_DIR$/src/OOP_Lab3/TestWhilelLoop.java" />
       </list>
     </option>
   </component>
@@ -164,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestForLoop">
+  <component name="RunManager" selected="Application.TestWhilelLoop">
     <configuration name="CalGrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -203,14 +214,14 @@
       <module name="oop_357411110060" />
       <envs />
     </configuration>
-    <configuration name="TestInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="oop_lab2.*" />
+          <option name="PATTERN" value="OOP_Lab3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="oop_lab2.TestInput" />
+      <option name="MAIN_CLASS_NAME" value="OOP_Lab3.TestSwitchCase" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -222,14 +233,14 @@
       <module name="oop_357411110060" />
       <envs />
     </configuration>
-    <configuration name="TestSwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TestWhilelLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="OOP_Lab3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="OOP_Lab3.TestSwitchCase" />
+      <option name="MAIN_CLASS_NAME" value="OOP_Lab3.TestWhilelLoop" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -342,19 +353,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestInput" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Testcondition" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestSwitchCase" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CalGrade" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestForLoop" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Testcondition" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestSwitchCase" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CalGrade" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestForLoop" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestWhilelLoop" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestForLoop" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestSwitchCase" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CalGrade" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Testcondition" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestInput" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestWhilelLoop" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestForLoop" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestSwitchCase" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CalGrade" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Testcondition" />
       </list>
     </recent_temporary>
   </component>
@@ -446,12 +457,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513046645700</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Test Forloop case">
+      <created>1513049227550</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1513049227550</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -494,7 +511,8 @@
     <MESSAGE value="switch" />
     <MESSAGE value="TestSwitch" />
     <MESSAGE value="Test Switch case" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Switch case" />
+    <MESSAGE value="Test Forloop case" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Forloop case" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -664,8 +682,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OOP_Lab3/TestForLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        <state relative-caret-position="324">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP_Lab3/TestWhilelLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="35" column="42" lean-forward="false" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
           <folding />
         </state>
       </provider>
