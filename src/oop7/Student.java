@@ -16,6 +16,7 @@ public class Student {
                 '}';
     }//toString
 
+    public String gender = "Male";
     private String id;
     private String major;
     private String Faculty;
@@ -24,7 +25,7 @@ public class Student {
     //Default constructor
     public Student(){}
     //create constructor by owner
-    private Student (String id,String m,String f,String n){
+    public Student (String id,String m,String f,String n){
         //asigne data to class properties
         this.id = id;
         this.Faculty = f;
