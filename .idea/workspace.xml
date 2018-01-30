@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0b7a163-6171-4e1f-96b7-5859eca03ff9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lad8/PersonInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lad8/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_midterm/A1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_midterm/Age.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_midterm/scanner.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop_lad8/Student.java" afterPath="$PROJECT_DIR$/src/oop_lad8/Student.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop_lad8/PersonInfo.java" afterPath="$PROJECT_DIR$/src/oop_lad8/PersonInfo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,11 +46,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PersonInfo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PersonInfo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oop_lad8/PersonInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+            <state relative-caret-position="198">
+              <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oop_lad8/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -56,8 +69,8 @@
       <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oop_lad8/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+            <state relative-caret-position="319">
+              <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -127,7 +140,12 @@
         <option value="$PROJECT_DIR$/src/oop7/SuperCar.java" />
         <option value="$PROJECT_DIR$/src/oop_lad8/Person.java" />
         <option value="$PROJECT_DIR$/src/oop_lad8/Student.java" />
+        <option value="$PROJECT_DIR$/src/oop_lad8/Employee.java" />
         <option value="$PROJECT_DIR$/src/oop_lad8/PersonInfo.java" />
+        <option value="$PROJECT_DIR$/src/oop_midterm/A1.java" />
+        <option value="$PROJECT_DIR$/src/oop_midterm/A2.java" />
+        <option value="$PROJECT_DIR$/src/oop_midterm/Age.java" />
+        <option value="$PROJECT_DIR$/src/oop_midterm/scanner.java" />
       </list>
     </option>
   </component>
@@ -162,12 +180,6 @@
               <item name="oop_357411110060" type="b2602c69:ProjectViewProjectNode" />
               <item name="oop_357411110060" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oop_357411110060" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oop_357411110060" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oop_lad8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -652,7 +664,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517279879103</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="PersonInfo">
+      <created>1517281147867</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1517281147867</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -667,12 +686,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23076923" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23076923" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.206875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32985657" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -684,14 +704,12 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="switch" />
     <MESSAGE value="TestSwitch" />
     <MESSAGE value="Test Switch case" />
     <MESSAGE value="Test Forloop case" />
@@ -716,7 +734,8 @@
     <MESSAGE value=" SuperCar" />
     <MESSAGE value="Inherintance:Student extends persan" />
     <MESSAGE value="Person" />
-    <option name="LAST_COMMIT_MESSAGE" value="Person" />
+    <MESSAGE value="PersonInfo" />
+    <option name="LAST_COMMIT_MESSAGE" value="PersonInfo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -753,8 +772,8 @@
         <state relative-caret-position="340">
           <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#203#213#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#203#213#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -764,18 +783,18 @@
         <state relative-caret-position="612">
           <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
-            <element signature="e#660#661#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-            <element signature="e#779#780#0" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
-            <element signature="e#843#844#0" expanded="true" />
-            <element signature="e#889#890#0" expanded="true" />
-            <element signature="e#927#928#0" expanded="true" />
-            <element signature="e#962#963#0" expanded="true" />
-            <element signature="e#993#994#0" expanded="true" />
-            <element signature="e#1041#1042#0" expanded="true" />
-            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="false" />
+            <element signature="e#691#692#0" expanded="false" />
+            <element signature="e#739#740#0" expanded="false" />
+            <element signature="e#779#780#0" expanded="false" />
+            <element signature="e#813#814#0" expanded="false" />
+            <element signature="e#843#844#0" expanded="false" />
+            <element signature="e#889#890#0" expanded="false" />
+            <element signature="e#927#928#0" expanded="false" />
+            <element signature="e#962#963#0" expanded="false" />
+            <element signature="e#993#994#0" expanded="false" />
+            <element signature="e#1041#1042#0" expanded="false" />
+            <element signature="e#1081#1082#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -851,18 +870,18 @@
         <state relative-caret-position="341">
           <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
           <folding>
-            <element signature="e#660#661#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-            <element signature="e#779#780#0" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
-            <element signature="e#843#844#0" expanded="true" />
-            <element signature="e#889#890#0" expanded="true" />
-            <element signature="e#927#928#0" expanded="true" />
-            <element signature="e#962#963#0" expanded="true" />
-            <element signature="e#993#994#0" expanded="true" />
-            <element signature="e#1041#1042#0" expanded="true" />
-            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="false" />
+            <element signature="e#691#692#0" expanded="false" />
+            <element signature="e#739#740#0" expanded="false" />
+            <element signature="e#779#780#0" expanded="false" />
+            <element signature="e#813#814#0" expanded="false" />
+            <element signature="e#843#844#0" expanded="false" />
+            <element signature="e#889#890#0" expanded="false" />
+            <element signature="e#927#928#0" expanded="false" />
+            <element signature="e#962#963#0" expanded="false" />
+            <element signature="e#993#994#0" expanded="false" />
+            <element signature="e#1041#1042#0" expanded="false" />
+            <element signature="e#1081#1082#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -872,8 +891,8 @@
         <state relative-caret-position="341">
           <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#203#213#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#203#213#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -882,14 +901,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop_lad8/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -919,10 +930,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_midterm/A2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1276">
+          <caret line="58" column="1" lean-forward="false" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_midterm/A1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_midterm/Age.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_midterm/scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/oop_lad8/PersonInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        <state relative-caret-position="198">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_lad8/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_lad8/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
           <folding />
         </state>
       </provider>

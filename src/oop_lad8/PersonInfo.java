@@ -10,8 +10,16 @@ public class PersonInfo {
                 "Is");
         System.out.println(student.toString());
         System.out.println(student.getName());
-
-
+        Employee employee =new Employee("001",
+                "new",
+                "Mal",
+                2,
+                "2222",
+                "IB",
+                "20000");
+        System.out.println(employee.toString());
+        System.out.println(employee.getName());
 
     }//main
+
 }//class
