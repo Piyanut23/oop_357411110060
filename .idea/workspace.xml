@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0b7a163-6171-4e1f-96b7-5859eca03ff9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lad8/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_midterm/A1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_midterm/Age.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_midterm/scanner.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop_lad8/PersonInfo.java" afterPath="$PROJECT_DIR$/src/oop_lad8/PersonInfo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,7 +51,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oop_lad8/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="305">
@@ -66,10 +61,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/oop_lad8/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
+            <state relative-caret-position="550">
               <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
               <folding />
             </state>
@@ -671,7 +666,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517281147867</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Employee">
+      <created>1517282988409</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1517282988409</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -710,7 +712,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TestSwitch" />
     <MESSAGE value="Test Switch case" />
     <MESSAGE value="Test Forloop case" />
     <MESSAGE value="Test WhilelLoop case" />
@@ -735,7 +736,8 @@
     <MESSAGE value="Inherintance:Student extends persan" />
     <MESSAGE value="Person" />
     <MESSAGE value="PersonInfo" />
-    <option name="LAST_COMMIT_MESSAGE" value="PersonInfo" />
+    <MESSAGE value="Employee" />
+    <option name="LAST_COMMIT_MESSAGE" value="Employee" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -962,6 +964,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_lad8/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/oop_lad8/PersonInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -972,16 +982,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oop_lad8/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
+        <state relative-caret-position="550">
           <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop_lad8/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
           <folding />
         </state>
       </provider>
