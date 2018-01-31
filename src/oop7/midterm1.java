@@ -3,15 +3,19 @@ package oop7;
 import java.util.Scanner;
 
 public class midterm1 {
-    static Scanner scanner = new Scanner(System.in);
+    private static final int x=2561;
     public static void main(String[] args) {
-        String id = getID ();
+        int i = 1;
+        for (; i <= 3; ){
+            Scanner scanner = new Scanner(System.in);
+            System.out.print("กรุณาใส่ปี พ.ศ. เกิดของคุณ: ");
+            int y = scanner.nextInt();
+            System.out.println("อายุของคุณคือ: "+(x-y));
+            i++;
+        }
+    }
+
 
     }
-    private static String getID (){
-        System.out.print("Enter employee id : ");
-        return scanner.nextLine();
 
-    }
-}
 
