@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b0b7a163-6171-4e1f-96b7-5859eca03ff9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop_lab9/myperson.java" afterPath="$PROJECT_DIR$/src/oop_lab9/myperson.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -157,8 +158,8 @@
       <file leaf-file-name="myperson.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/oop_lab9/myperson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="330">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -519,13 +520,6 @@
       <option name="presentableId" value="Default" />
       <updated>1511076050031</updated>
     </task>
-    <task id="LOCAL-00004" summary="Test condition">
-      <created>1511836309992</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1511836309992</updated>
-    </task>
     <task id="LOCAL-00005" summary="Test condition">
       <created>1511836428423</created>
       <option name="number" value="00005" />
@@ -862,7 +856,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517888401994</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="C_myperson">
+      <created>1517888447135</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1517888447135</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -901,7 +902,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="StringCompare" />
     <MESSAGE value="StringBuffer" />
     <MESSAGE value="midterm3.1" />
     <MESSAGE value="Class and object Student" />
@@ -926,7 +926,8 @@
     <MESSAGE value="C_Person" />
     <MESSAGE value="C_Address" />
     <MESSAGE value="C_Job" />
-    <option name="LAST_COMMIT_MESSAGE" value="C_Job" />
+    <MESSAGE value="C_myperson" />
+    <option name="LAST_COMMIT_MESSAGE" value="C_myperson" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1361,8 +1362,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oop_lab9/myperson.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="330">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
