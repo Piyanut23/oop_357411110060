@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0b7a163-6171-4e1f-96b7-5859eca03ff9" name="Default" comment="C_Engine">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lab9/Address.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lab9/Job.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lab9/myperson.java" />
+    <list default="true" id="b0b7a163-6171-4e1f-96b7-5859eca03ff9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop_lab9/Person.java" afterPath="$PROJECT_DIR$/src/oop_lab9/Person.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +27,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cow.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Cow.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oop_lab9/Cow.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
@@ -46,7 +42,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PetApp.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PetApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/oop_lad8/PetApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="440">
@@ -831,7 +827,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517886583113</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Cow">
+      <created>1517888220835</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1517888220835</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -870,7 +873,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="StudentData" />
     <MESSAGE value="Test Array 1D" />
     <MESSAGE value="Test InputDataArray" />
     <MESSAGE value="Sorting data in Arrat" />
@@ -895,7 +897,8 @@
     <MESSAGE value="Dog" />
     <MESSAGE value="NewMidterm3.2" />
     <MESSAGE value="C_Engine" />
-    <option name="LAST_COMMIT_MESSAGE" value="C_Engine" />
+    <MESSAGE value="Cow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cow" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1212,14 +1215,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop_lad8/PetApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oop_lab9/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
@@ -1333,6 +1328,14 @@
             <element signature="e#186#187#0" expanded="true" />
             <element signature="e#237#238#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_lad8/PetApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
