@@ -1,12 +1,25 @@
 package oop_lad8;
 
+import oop_lab9.Cow;
+
 public class PetApp {
-    private static void main (String[]args){
-        Dog dog = new Dog("moo",3,"pik");
+    public static void main(String[] args) {
+        Dog dog = new Dog("Chayen",2,"Bangkeaw");
         System.out.println(dog.toString());
         dog.makeNoise();
-        cat cat = new cat("Giant",1,"parsaer");
+        dog.myPet();
+
+        cat cat = new cat("Giant",2,"persian");
         System.out.println(cat.toString());
         cat.makeNoise();
-    }
-}
+        cat.myPet();
+
+        Cow cow = new Cow("Namjai",5);
+        System.out.println(cow.toString());
+        cow.makeNoise();
+        cow.myPet();
+
+
+    }//main
+
+}//class
